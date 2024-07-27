@@ -1,4 +1,4 @@
-/* styles.css */
+
 
 body {
     margin: 0;
@@ -262,7 +262,7 @@ footer {
     margin: auto;
 }
 
-/* Keyframes for Animations */
+
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -283,7 +283,7 @@ footer {
     }
 }
 
-/* Responsive Styles */
+
 @media (max-width: 768px) {
     nav ul {
         flex-direction: column;
